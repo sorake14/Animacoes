@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 1px solid black;
+    animation: girarpulsar 2s infinite;
+    transform: translate(-50%, -50%);
+}
+@keyframes girarpulsar {
+    0% {
+      transform: translate(-50%, -50%) rotate(0deg) scale(1);
+    }
+    50% {
+      transform: translate(-50%, -50%) rotate(360deg) scale(1.2);
+    }
+    100% {
+      transform: translate(-50%, -50%) rotate(720deg) scale(1);
+    }
+  }

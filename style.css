@@ -1,0 +1,211 @@
+body{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 0%;
+    margin: 0%;
+}
+.Header{
+    background-color: rgb(228, 243, 22);
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 15px groove rgb(102, 102, 2);
+    
+}
+.Header1{
+    height: 160px;
+    width: 175vh;
+    border: 2px dotted rgb(0, 0, 0);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+.titulo{
+    text-decoration: none;
+    color: black;
+}
+.Meio{
+    height: 800px;
+    width: 100%;
+    background-color: rgb(19, 18, 18);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.meioleft{
+    background-color: rgba(255, 255, 255, 0.123);
+    width: 500px;
+    height: 700px;
+    border: 10px groove rgb(102, 102, 2);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.meioright{
+    background-color: rgba(255, 255, 255, 0.123);
+    width: 500px;
+    height: 700px;
+    border: 10px groove rgb(102, 102, 2);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Questao1e2{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao3{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao4{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao5{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao6{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao7{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao8{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao9{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao10{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao11{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao12{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao13{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao14{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Questao15{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(231, 247, 10);
+    border: 1px double black;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    background-color: rgb(228, 243, 22);
+    height: 100px;
+    width: 100%;
+    border: 10px groove rgb(102, 102, 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

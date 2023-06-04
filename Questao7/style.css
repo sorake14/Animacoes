@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    animation-name: aumentar;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+@keyframes aumentar{
+    0%{
+        width: 0px;
+        height: 0px;
+        background-color: aqua;
+        border: 1px solid black;
+    }
+    50%{
+        width: 100px;
+        height: 100px;
+        background-color: rgb(119, 0, 255);
+        border: 1px solid black;
+    }
+    100%{
+        width: 200px;
+        height: 200px;
+        background-color: rgb(247, 0, 0);
+        border: 1px solid black;
+    }
+}

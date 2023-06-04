@@ -1,0 +1,19 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: rgb(236, 7, 160);
+    animation: quicar 5s infinite;
+}
+@keyframes quicar{
+    0%{
+        margin-bottom: 2000px;
+        margin-right: 2300px;
+    }

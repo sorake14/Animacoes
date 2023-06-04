@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    animation: upleft 3s infinite;
+}
+@keyframes upleft{
+    0%{
+        
+    }
+    100%{
+        margin-bottom: 910px;
+        margin-right: 1840px;
+        height: 70px;
+        width: 70px;
+    }
+
+}
